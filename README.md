@@ -61,6 +61,5 @@ The EDA and the Elbow Method both point to **5 clusters**:
 └── README.md
 ```
 
-## 👤 Author
 
-**[Your Name]** | [LinkedIn] | [Email]
+
